@@ -1,7 +1,7 @@
 ## Olá, eu sou a Julia Louback Ribeiro :heart:
 
-- Desenvolvedora de Software
-- Atualmente trabalhando na área de Digital Commerce
+- Engenheira de Software
+- Atualmente trabalhando na área de Integração
 - Apaixonada por livros
 
 ## Sobre mim ✨

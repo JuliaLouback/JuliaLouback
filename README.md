@@ -2,7 +2,7 @@
 
 - Engenheira de Software
 - Atualmente trabalhando na área de Integração
-- Apaixonada por livros
+- Cursando Pós-graduação em Engenharia de Serviços e Sistemas de Cloud Computing
 
 ## Sobre mim ✨
 <div> 
